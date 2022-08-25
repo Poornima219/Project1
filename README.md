@@ -26,24 +26,16 @@ Azure Bot Service, QnA Maker, Static Web Apps
 Other Azure Technologies : App Service
 
 ## Screenshots
+## Home Page
 
- 📸![Screenshot 2022-03-07 090754](https://user-images.githubusercontent.com/98517345/"C:\Users\Moulinadh\OneDrive\Desktop\internship project\MS internship\Screenshot 2022-08-25 114028.png")
+ 📸![Screenshot 2022-08-25 114028](https://user-images.githubusercontent.com/111211348/186595284-f46907cf-2b1d-4d97-b249-ddb1f17381c3.png)
 
+## Login Page
+![Screenshot 2022-08-25 114355](https://user-images.githubusercontent.com/111211348/186595483-4ca2ee49-e503-41ba-a493-48d1ffa9f6bf.png)
 
+## Products
+![Screenshot 2022-08-25 114129](https://user-images.githubusercontent.com/111211348/186595904-ca893e2c-31ac-46b8-b857-6439e00513f8.png)
 
-   
-
-### About Us -
-
-
-
-![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
-
-
-### Privacy policy -
-
-
-![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
 
 
 
