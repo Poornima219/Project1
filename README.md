@@ -36,6 +36,12 @@ Other Azure Technologies : App Service
 ## Products
 ![Screenshot 2022-08-25 114129](https://user-images.githubusercontent.com/111211348/186595904-ca893e2c-31ac-46b8-b857-6439e00513f8.png)
 
+## Categories
+![Screenshot 2022-08-25 114218](https://user-images.githubusercontent.com/111211348/186596286-3770f505-2eee-4334-a38f-f3fccb2fa351.png)
+
+## Contact Us
+![Screenshot 2022-08-25 114315](https://user-images.githubusercontent.com/111211348/186596524-e15088a7-930f-46ca-9c75-1812d31aac71.png)
+
 
 
 
