@@ -43,10 +43,13 @@ Other Azure Technologies : App Service
 ![Screenshot 2022-08-25 114315](https://user-images.githubusercontent.com/111211348/186596524-e15088a7-930f-46ca-9c75-1812d31aac71.png)
 
 ## Our Features!
-[Screenshot 2022-08-25 114442](https://user-images.githubusercontent.com/111211348/186597013-06095c65-45b8-4a66-b159-38fd746b13eb.png)
+![Screenshot 2022-08-25 114442](https://user-images.githubusercontent.com/111211348/186597232-9b57bcc1-4798-4239-92bc-186dc1a00887.png)
 
+## Search Option
+![Screenshot 2022-08-25 114537](https://user-images.githubusercontent.com/111211348/186597362-11867c4a-b2dd-47df-abd5-640a35cd76ab.png)
 
-
+## Cart
+![Screenshot 2022-08-25 114621](https://user-images.githubusercontent.com/111211348/186597502-ee946b78-b3a4-4efd-a96c-508ff4d03db8.png)
 
 
 
