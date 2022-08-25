@@ -1,6 +1,12 @@
-✨ Telugu Health  ✨
+✨ E-Commerce Website with FAQ Bot ✨
 
-This is a web based application developed for health related telugu based website in india
+This is 10 Page E-commerce Front End website design
+
+Web Technologies used: HTML, CSS, JS, Bootstrap
+
+IDE: VS-Code
+
+Note: Bot is deployed on contact page
 
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
